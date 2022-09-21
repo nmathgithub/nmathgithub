@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nmathgithub. I am a PhD candidate in mathematics at the University of Iowa.
+- 👋 Hi, I’m @nmathgithub. I am a fourth year PhD candidate studying mathematics at the University of Iowa. My area of research is in partial differential equations (PDEs).
 
-- 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! My mathematical interests are in partial differential equations, complex analysis, and number theory.
+- 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! 
 
 
 # I. Machine Learning/Deep Learning/Software Experience
@@ -115,6 +115,8 @@ Conference Papers
 [An Algorithm to Reverse the Generalized Factorials Process](http://sections.maa.org/okar/papers/2019/Mathur.pdf)
 
 A complete lists of my presentations and detailed research work is [here.](https://myweb.uiowa.edu/nmathr/research.html)
+
+**Other mathematical interests:** Complex Analysis, Number Theory, Topology
 
 # III. Other Interests
 
