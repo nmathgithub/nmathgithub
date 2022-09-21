@@ -39,6 +39,23 @@ AWS Services Used: Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway,
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
 - Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
 
+# Internships and Projects
+
+## Internships 
+
+## Past Personal Projects 
+One of my prior projects was proposing an alternative points system, implementing the idea into an algorithm, and communicate the data & findings with readers from the cricketing world.
+
+The algorithm and data is documented here: 
+https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/
+
+## Currently Working On/Thinking About
+With my interest in deep learning growing, I want to pursue projects involving classical music data sets.
+A list of project ideas are as follows:
+
+- Predicting Genre of Music Provided Training Sets 
+- Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
+
 # II. Mathematics 
 
 - I am currently completing my PhD in mathematics at the University of Iowa. My area of research lies in hyperbolic partial differential equations (PDEs).
@@ -64,20 +81,6 @@ An Algorithm to Reverse the Generalized Factorials Process http://sections.maa.o
 ## Cricket Blog 
 
 I run a cricket blog/website at https://brokencricketdreams.com/. 
-
-# Internships and Projects
-
-
-One of my prior projects was proposing an alternative points system, implementing the idea into an algorithm, and communicate the data & findings with readers from the cricketing world.
-
-The algorithm and data is documented here: 
-https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/
-
-With my interest in deep learning growing, I want to pursue projects involving classical music data sets.
-A list of project ideas are as follows:
-
-- Predicting Genre of Music Provided Training Sets 
-- Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
 
 <!---
 nmathgithub/nmathgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
