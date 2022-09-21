@@ -19,7 +19,7 @@
 
 **Service Management & Automatation Team** 
 
-*Assisted the team in a company-wide release of ServiceNow, a service management tool from the beginning of the process to the Go-Live Phase and beyond. Specifically, I assisted in the discovery & documentation of ServiceNow Configuration Management Database (CMDB), wrote scripts for ServiceNow notifications, and debugged/tested issues with the interface *
+*Assisted the team in a company-wide release of ServiceNow, a service management tool from the beginning of the process to the Go-Live Phase and beyond. Specifically, I assisted in the discovery & documentation of ServiceNow Configuration Management Database (CMDB), wrote scripts for ServiceNow notifications, and debugged/tested issues with the interface*
 
 *The second project was part of the "Battle of the Interns," where a group of IT interns proposed a solution and provided a demo to company executives. We created a digital dashboard to streamline prospecting in the bank. In the process, I utilized SQL to explore the data and build visualization in R.*
 
