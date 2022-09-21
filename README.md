@@ -70,14 +70,14 @@ A list of project ideas are as follows:
 - **Information Technology** 
     - Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
     - **Development Lifecycle/Version Control:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
-    - 
+    
 - **Math Programming** 
     - Mathematica, Matlab, LaTex, XPP
 
 - **Web Development** 
     - React.js, Node.js, HTML, CSS
     - **Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
-    - **Content Creation/Design** Canva, Audacity, Wordpress, Adobe Creative Cloud (Premier Pro);
+    - **Content Creation/Design:** Canva, Audacity, Wordpress, Adobe Creative Cloud (Premier Pro);
 
 - **Microsoft**
     - Word, Excel, Access, PowerPoint
