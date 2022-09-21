@@ -41,7 +41,7 @@
 
 ## II. Personal Projects 
 
-### Alternative World Test Championship Points Table ###
+**Alternative World Test Championship Points Table**
 
 I write articles & maintain a cricket blog/website at https://brokencricketdreams.com/. One of the aspects of the blog is to think about current problems in the sport and propose innovations that can make it better. Here is one such project.
 
@@ -50,13 +50,13 @@ I write articles & maintain a cricket blog/website at https://brokencricketdream
 *My **process of collecting and manipulating data, correspondings visualizations, and findings are documented here:** [Alternative World Test Championship Points Table](https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/)
 
 
-## Currently Working On/Thinking About
+### Currently Working On/Thinking About
 
 I want to combine my interests of deep learning, music, and cricket.
 
 *I have been playing the violin for about 14 years and have participated in high school & university orchestras, youth symphonies, church concerts, and musicals. In undergraduate, I minored in music and became interested in music theory and music history.*
 
-### List of Projects ###
+### List of Projects
 
 - Predicting Genre of Music Provided Training Sets 
 - Classify Music as 'Bach' or 'Non-Bach' provided music clips from the Baroque sets
