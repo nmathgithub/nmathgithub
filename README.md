@@ -30,15 +30,23 @@
  6. Introduction to Power BI Training
 
 ## Software Skills
+
 **Math Programming:** Mathematica, Matlab, LaTex, XPP
+
 **Web Development:** Java, Apex, HTML, CSS, Wordpress
+
 **Information Technology:** ServiceNow, SCRUM/Agile, Configuration Management Database (CMDB)
+
 **Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
+
 **Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
+
 Microsoft Word, Excel, Access, PowerPoint
 
 ## Relevant Coursework
+
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
+- 
 - Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
 
 # Internships and Projects
