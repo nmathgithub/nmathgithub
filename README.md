@@ -13,7 +13,15 @@
 
 ### Data Engineering Intern, Principal Financial Group (May-July 2022) ### 
 
+- Main Project 
+
 *Implemented a workflow by utilizing AWS cloud infrastructure tools to calculate DORA Metrics (DevOps Research and Assesssments) and produce a dashboard in AWS Quicksight to help teams work more efficiently*
+
+*To accomplish this task, we worked with AWS CDK (in Python) and automated a workflow. We first wrote a chain of three lambdas and connected them via a StepFunction to extract relevant data from Github pull requests and Azure project/pipeline APIs. In the process, we validated the data (by using the pydantic library) and wrote the data to an S3 bucket. A new file in the S3 bucket would trigger a data transfer into DynamoDB (which itself was created by using AWS Glue), which was finally used to produce a dashboard in AWS Quicksight.* 
+
+- Hackathon
+
+*Created a website as a demo for a Personalized Onboarding Experience in four days. This website was built using React.js & Node.js (hosted on AWS Amplify), which would take an individual's name & team as input and produce personalize webpages with relevant onboarding/installation information. As part of this project, we also made sure to implement several layers of security by using AWS Cognito.*
 
 ### Information Technology, Accelerated Career Track Intern, Bank of Oklahoma (May 2018-May 2019) ### 
 
@@ -50,7 +58,7 @@ A list of project ideas are as follows:
 
 **Python Libraries:** Numpy, Pandas, Matplotlib
 
-**AWS Services Used:** Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
+**AWS Services Used:** Lambda, StepFunctions, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
 
 **Information Technology:** Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
 
