@@ -60,19 +60,29 @@ A list of project ideas are as follows:
 
 ## Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
 
-- **Data Analysis:** 
+- **Data Analysis** 
     - R, Python, SQL, Jupyter Notebook, Java
     - **Python Libraries:** Numpy, Pandas, Matplotlib
 
-- **AWS Services Used:** Lambda, StepFunctions, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
+- **AWS Services Used** 
+    - Lambda, StepFunctions, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
 
-- **Information Technology:** Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB); **Development Lifecycle:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
+- **Information Technology** 
+    - Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
+    - **Development Lifecycle/Version Control:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
+    - 
+- **Math Programming** 
+    - Mathematica, Matlab, LaTex, XPP
 
-- **Web Development:** React.js, Node.js, HTML, CSS, Wordpress; **Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
+- **Web Development** 
+    - React.js, Node.js, HTML, CSS
+    - **Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
+    - **Content Creation/Design** Canva, Audacity, Wordpress, Adobe Creative Cloud (Premier Pro);
 
-- **Math Programming:** Mathematica, Matlab, LaTex, XPP
+- **Microsoft**
+    - Word, Excel, Access, PowerPoint
 
-- **Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro); **Microsoft:** Word, Excel, Access, PowerPoint
+
 
 ## Trainings/Certifications
 
