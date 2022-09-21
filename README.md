@@ -9,9 +9,11 @@
 
 ## Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
 
-Data Analysis: R, Python, SQL, Jupyter Notebook
-Python Libraries: Numpy, Pandas, Matplotlib
-AWS Services Used: Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
+**Data Analysis:** R, Python, SQL, Jupyter Notebook
+
+**Python Libraries:** Numpy, Pandas, Matplotlib
+
+**AWS Services Used:** Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
 
 ## Trainings/Certifications
 
