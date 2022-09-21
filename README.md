@@ -1,10 +1,35 @@
 - 👋 Hi, I’m @nmathgithub.
 
 - 👀 I’m interested in data science, visualization, mathematics music, and cricket data!
-- 🌱 I’m currently learning about deep learning and artificial neural networks. 
 
 
 I. Machine Learning/Deep Learning 
+
+- 🌱 I’m currently trying to further my understanding of deep learning, artificial neural networks, natural language processing, and computer vision by working on several personal projects. 
+
+Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
+
+Data Analysis: R, Python, SQL, Jupyter Notebook
+Python Libraries: Numpy, Pandas, Matplotlib
+AWS Services Used: Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
+
+Certifications:
+ 1. Deep Learning Specialization by Andrew Ng in Coursera 
+ - Structuring Machine Learning Projects
+ - Neural Networks and Deep Learning 
+ - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
+ - Sequence Models 
+ - Convolution Neural Networks 
+ 2. DevOps Foundations (LinkedIn Learning)
+ 3. Developing Serverless Solutions on AWS
+
+Software Skills
+- Math Programming: Mathematica, Matlab, LaTex, XPP
+- Web Development: Java, Apex, HTML, CSS, Wordpress
+- Information Technology: ServiceNow, SCRUM/Agile, Configuration Management Database (CMDB)
+- Visualization: PowerBI, D3, Tableau, Cognos, VTK, Paraview
+- Microsoft Word, Excel, Access, PowerPoint
+- Content Creation/Design: Canva, Audacity, Adobe Creative Cloud (Premier Pro)
 
 II. Mathematics 
 
@@ -26,8 +51,12 @@ A list of project ideas are as follows:
 
 IV. Cricket Blog 
 
-I run a cricket blog at https://brokencricketdreams.com/. 
-One of my prior projects was proposing an alternative points system. The algorithm and data is documented here: https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/
+I run a cricket blog/website at https://brokencricketdreams.com/. 
+
+One of my prior projects was proposing an alternative points system. 
+The algorithm and data is documented here: 
+
+https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/
 
 <!---
 nmathgithub/nmathgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
