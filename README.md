@@ -56,7 +56,7 @@ I want to combine my interests of deep learning, music, and cricket.
 
 *I have been playing the violin for about 14 years and have participated in high school & university orchestras, youth symphonies, church concerts, and musicals. In undergraduate, I minored in music and became interested in music theory and music history.*
 
-### List of Projects
+#### List of Upcoming Projects
 
 - Predicting Genre of Music Provided Training Sets 
 - Classify Music as 'Bach' or 'Non-Bach' provided music clips from the Baroque sets
