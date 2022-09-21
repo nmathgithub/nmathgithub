@@ -39,15 +39,15 @@
 
 *As part of the "Battle of the Interns" project", we **interviewed several teams across the bank** and gauged which teams needed a streamlined service management system. We **wrote a 30-page white paper and presented our findings** to company executives. The next year, the company implemented ServiceNow, and I was called back to work with the Service Management team. * 
 
-## Past Personal Projects 
-
-I write articles & maintain a cricket blog/website at https://brokencricketdreams.com/. 
+## Personal Projects 
 
 ### 1. Alternative World Test Championship Points Table ###
 
-*Although the World Test Championship (WTC) is a good idea, it was not the greatest of systems at its inception. Over a course of a few articles, I exposed some of the shortcomings of the system, which lead me into thinking about an alternate system. A few months later, I put these ideas into action and created an algorithm that would make the WTC points table more balanced. 
+I write articles & maintain a cricket blog/website at https://brokencricketdreams.com/. One of the aspects of the blog is to think about current problems in the sport and propose innovations that can make it better. Here is one such project.
 
-The data and findings are documented here: [Alternative World Test Championship Points Table](https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/)* 
+*Although the World Test Championship (WTC) is a good idea, it was not the greatest of systems at its inception. Over a course of a few articles, I exposed some of the shortcomings of the system, which lead me into thinking about an alternate system. A few months later, I put these ideas into action, created an algorithm that would make the WTC points table more balanced. and implemented it in R.*
+
+* **My process of collecting and manipulating data, correspondings visualizations, and findings are documented here:** [Alternative World Test Championship Points Table](https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/)* 
 
 
 
