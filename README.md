@@ -3,7 +3,7 @@
 - 👀 I’m interested in data science, visualization, mathematics music, and cricket data!
 
 
-I. Machine Learning/Deep Learning/Software Experience
+# I. Machine Learning/Deep Learning/Software Experience
 
 - 🌱 I’m currently trying to further my understanding of deep learning, artificial neural networks, natural language processing, and computer vision by working on several personal projects. 
 
@@ -39,7 +39,7 @@ Relevant Coursework
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
 - Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
 
-II. Mathematics 
+# II. Mathematics 
 
 - I am currently completing my PhD in mathematics at the University of Iowa. My area of research lies in hyperbolic partial differential equations (PDEs).
 The PDEs I deal with have applications in traffic flow & biology (specifically chemotaxis).  
@@ -53,12 +53,15 @@ Riemann Problem for a Non-Strictly Hyperbolic System in Chemotaxis https://www.a
 Conference Papers
 An Algorithm to Reverse the Generalized Factorials Process http://sections.maa.org/okar/papers/2019/Mathur.pdf
 
-III. Music 
+# III. Other Interests
+
+
+Music 
 
 - I have been playing the violin for about 14 years and have participated in high school & university orchestras, youth symphonies, church concerts, and musicals. In undergraduate, I minored in music and became interested in music theory and music history.
 
 
-IV. Cricket Blog 
+Cricket Blog 
 
 I run a cricket blog/website at https://brokencricketdreams.com/. 
 
