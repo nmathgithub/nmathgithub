@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmathgithub. I am a PhD candidate in mathematics at the University of Iowa. My area of research lies in hyperbolic partial differential equations (PDEs). The PDEs I deal with have applications in traffic flow & biology (specifically chemotaxis). I completed both my MS in Applied Mathematics & BS in mathematics with a minors in computer science and music from the University of Tulsa.
+- 👋 Hi, I’m @nmathgithub. I am a PhD candidate in mathematics at the University of Iowa.
 
 - 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! My mathematical interests are in partial differential equations, complex analysis, and number theory.
 
@@ -104,15 +104,17 @@ A list of project ideas are as follows:
 - 
 - Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
 
-# II. Mathematics 
+# II. Publications 
 
-
+My area of research lies in hyperbolic partial differential equations (PDEs). The PDEs I deal with have applications in traffic flow & biology (specifically chemotaxis). I completed both my MS in Applied Mathematics & BS in mathematics with a minors in computer science and music from the University of Tulsa.
 
 Publication
-Riemann Problem for a Non-Strictly Hyperbolic System in Chemotaxis https://www.aimsciences.org/article/doi/10.3934/dcdsb.2021128
+[Riemann Problem for a Non-Strictly Hyperbolic System in Chemotaxis](https://www.aimsciences.org/article/doi/10.3934/dcdsb.2021128)
 
 Conference Papers
-An Algorithm to Reverse the Generalized Factorials Process http://sections.maa.org/okar/papers/2019/Mathur.pdf
+[An Algorithm to Reverse the Generalized Factorials Process](http://sections.maa.org/okar/papers/2019/Mathur.pdf)
+
+A complete lists of my presentations and detailed research work is [here.](https://myweb.uiowa.edu/nmathr/research.html)
 
 # III. Other Interests
 
