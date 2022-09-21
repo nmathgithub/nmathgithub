@@ -3,11 +3,11 @@
 - 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! 
 
 
-# I. Machine Learning/Deep Learning/Software Experience
+# Machine Learning/Deep Learning/Software Experience
 
 - 🌱 I’m currently trying to further my understanding of deep learning, artificial neural networks, natural language processing, and computer vision by working on several personal projects. 
 
-# Internships and Projects
+# I. Internships and Projects
 
 ## Internships 
 
@@ -39,7 +39,7 @@
 
 *As part of the "Battle of the Interns" project", we **interviewed several teams across the bank** and gauged which teams needed a streamlined service management system. We **wrote a 30-page white paper and presented our findings** to company executives. The next year, the company implemented ServiceNow, and I was called back to work with the Service Management team.* 
 
-## Personal Projects 
+## II. Personal Projects 
 
 ### Alternative World Test Championship Points Table ###
 
@@ -64,7 +64,7 @@ I want to combine my interests of deep learning, music, and cricket.
 - Implement a live scorecard on my website by reading official APIs (that refresh continuously) and formatting it in a presentable way
 
 
-## Data Science, Visualization, Cloud Infrastructure, DevOps, and Programming Skills 
+## III. Data Science, Visualization, Cloud Infrastructure, DevOps, and Programming Skills 
 
 - **Data Analysis** 
     - Python, Tensorflow, R, SQL, Jupyter Notebook, Java
@@ -89,7 +89,7 @@ I want to combine my interests of deep learning, music, and cricket.
     - Word, Excel, Access, PowerPoint
 
 
-## Trainings/Certifications
+## IV. Trainings/Certifications
 
  1. **Deep Learning Specialization** by Andrew Ng in Coursera 
     - Structuring Machine Learning Projects
@@ -103,12 +103,12 @@ I want to combine my interests of deep learning, music, and cricket.
  5. Fundamental Cloud Concepts for AWS
  6. Introduction to Power BI Training
 
-## Relevant Coursework
+## V. Relevant Coursework
 
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization, Bioinformatics
 - Statistical/Machine Learning, Numerical Optimization, Linear Algebra, Probability, Stochastic Modeling, Numerical Analysis
 
-# II. Publications 
+# Publications 
 
 My area of research lies in hyperbolic partial differential equations (PDEs). The PDEs I deal with have applications in traffic flow & biology (specifically chemotaxis). I completed both my MS in Applied Mathematics & BS in mathematics with a minors in computer science and music from the University of Tulsa.
 
@@ -122,7 +122,7 @@ A complete lists of my presentations and detailed research work is [here.](https
 
 **Other mathematical interests:** Complex Analysis, Number Theory, Topology
 
-## Books Read/YouTube Channels that I follow for Data Science ## 
+# Books Read/YouTube Channels that I follow for Data Science 
 
 ### Books ### 
 
