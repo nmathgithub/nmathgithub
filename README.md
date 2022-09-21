@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmathgithub.
 
-- 👀 I’m interested in data science, visualization, mathematics music, and cricket data!
+- 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data!
 
 
 # I. Machine Learning/Deep Learning/Software Experience
