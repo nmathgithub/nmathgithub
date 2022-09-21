@@ -35,7 +35,7 @@
 
 **Bank Data Warehouse & Salesforce Team**
 
-* **Helped eliminiate techinical data by doing regression testing** for Salesforce (in Apex language). I provided value by increasing the test cases passed from 75% to 93% * 
+*Helped **eliminiate techinical data by doing regression testing** for Salesforce (in Apex language). I provided value by increasing the test cases passed from 75% to 93%* 
 
 *As part of the "Battle of the Interns" project", we **interviewed several teams across the bank** and gauged which teams needed a streamlined service management system. We **wrote a 30-page white paper and presented our findings** to company executives. The next year, the company implemented ServiceNow, and I was called back to work with the Service Management team. * 
 
