@@ -50,18 +50,24 @@ I write articles & maintain a cricket blog/website at https://brokencricketdream
 *My **process of collecting and manipulating data, correspondings visualizations, and findings are documented here:** [Alternative World Test Championship Points Table](https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/)
 
 
-
 ## Currently Working On/Thinking About
-With my interest in deep learning growing, I want to pursue projects involving classical music data sets.
-A list of project ideas are as follows:
+
+I want to combine my interests of deep learning, music, and cricket.
+
+*I have been playing the violin for about 14 years and have participated in high school & university orchestras, youth symphonies, church concerts, and musicals. In undergraduate, I minored in music and became interested in music theory and music history.*
+
+### A list of project ideas are as follows: ### 
 
 - Predicting Genre of Music Provided Training Sets 
-- Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
+- Classify Music as 'Bach' or 'Non-Bach' provided music clips from the Baroque sets
+- Predict a cricket team's likelihood of winning a World Cup or a league based on squad composition
+- Implement a live scorecard on my website by reading official APIs (that refresh continuously) and formatting it in a presentable way
 
-## Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
+
+## Data Science, Visualization, Cloud Infrastructure, DevOps, and Programming Skills 
 
 - **Data Analysis** 
-    - R, Python, SQL, Jupyter Notebook, Java
+    - Python, Tensorflow, R, SQL, Jupyter Notebook, Java
     - **Python Libraries:** Numpy, Pandas, Matplotlib
 
 - **AWS Services Used** 
@@ -83,7 +89,6 @@ A list of project ideas are as follows:
     - Word, Excel, Access, PowerPoint
 
 
-
 ## Trainings/Certifications
 
  1. **Deep Learning Specialization** by Andrew Ng in Coursera 
@@ -98,15 +103,11 @@ A list of project ideas are as follows:
  5. Fundamental Cloud Concepts for AWS
  6. Introduction to Power BI Training
 
-
-
-
-
 ## Relevant Coursework
 
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
 - 
-- Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
+- Statistical/Machine Learning, Numerical Optimization, Stochastic Modeling, Bioinformatics, and Probability
 
 # II. Publications 
 
@@ -122,19 +123,26 @@ A complete lists of my presentations and detailed research work is [here.](https
 
 **Other mathematical interests:** Complex Analysis, Number Theory, Topology
 
-# III. Other Interests
+## Books Read/YouTube Channels that I follow for Data Science ## 
 
+### Books ### 
 
-## Music 
+1. *An Introduction to Statistical Learning with Applications in R* by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+2. *Numerical Optimization* by Jorge Nocedal and Stephen J. Wright 
+3. *Hitting Against the Spin: How Cricket Really Works* by Nathan Leamon & Ben Jones
 
-- I have been playing the violin for about 14 years and have participated in high school & university orchestras, youth symphonies, church concerts, and musicals. In undergraduate, I minored in music and became interested in music theory and music history.
+### YouTube Channels ### 
 
+Here are some YouTube channels & blogs I follow for data science.
 
-## Cricket Blog 
+- [Code Basics](https://www.youtube.com/c/codebasics)
+- [TensorFlow] (https://www.youtube.com/c/TensorFlow), *Specificially the NLP Zero to Hero Playlist*
+- [Python Programmer] (https://www.youtube.com/c/FlickThrough)
+- [Luke Barousse] (https://www.youtube.com/c/LukeBarousse)
+- [Ken Jee] (https://www.youtube.com/c/KenJee1)
 
-I run a cricket blog/website 
+Blog: [Towards Data Science](https://towardsdatascience.com/)
 
-- Scorecard 
 
 <!---
 nmathgithub/nmathgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
