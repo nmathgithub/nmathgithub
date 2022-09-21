@@ -124,13 +124,15 @@ A complete lists of my presentations and detailed research work is [here.](https
 
 # Books Read/YouTube Channels that I follow for Data Science 
 
-### Books ### 
+### Favorite Books ### 
+
+Here are some of my favorite books (resource textbooks and fun to read books both included)
 
 1. *An Introduction to Statistical Learning with Applications in R* by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
 2. *Numerical Optimization* by Jorge Nocedal and Stephen J. Wright 
 3. *Hitting Against the Spin: How Cricket Really Works* by Nathan Leamon & Ben Jones
 
-### YouTube Channels ### 
+### YouTube Channels I Follow ### 
 
 Here are some YouTube channels & blogs I follow for data science.
 
