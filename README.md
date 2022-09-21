@@ -106,7 +106,6 @@ I want to combine my interests of deep learning, music, and cricket.
 ## Relevant Coursework
 
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
-- 
 - Statistical/Machine Learning, Numerical Optimization, Stochastic Modeling, Bioinformatics, and Probability
 
 # II. Publications 
@@ -136,10 +135,10 @@ A complete lists of my presentations and detailed research work is [here.](https
 Here are some YouTube channels & blogs I follow for data science.
 
 - [Code Basics](https://www.youtube.com/c/codebasics)
-- [TensorFlow] (https://www.youtube.com/c/TensorFlow), *Specificially the NLP Zero to Hero Playlist*
-- [Python Programmer] (https://www.youtube.com/c/FlickThrough)
-- [Luke Barousse] (https://www.youtube.com/c/LukeBarousse)
-- [Ken Jee] (https://www.youtube.com/c/KenJee1)
+- [TensorFlow](https://www.youtube.com/c/TensorFlow), *Specificially the NLP Zero to Hero Playlist*
+- [Python Programmer](https://www.youtube.com/c/FlickThrough)
+- [Luke Barousse](https://www.youtube.com/c/LukeBarousse)
+- [Ken Jee](https://www.youtube.com/c/KenJee1)
 
 Blog: [Towards Data Science](https://towardsdatascience.com/)
 
