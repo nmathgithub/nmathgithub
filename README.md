@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently trying to further my understanding of deep learning, artificial neural networks, natural language processing, and computer vision by working on several personal projects. 
 
-Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
+## Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
 
 Data Analysis: R, Python, SQL, Jupyter Notebook
 Python Libraries: Numpy, Pandas, Matplotlib
 AWS Services Used: Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
 
-Trainings/Certifications
+## Trainings/Certifications
 
  1. Deep Learning Specialization by Andrew Ng in Coursera 
  - Structuring Machine Learning Projects
@@ -27,7 +27,7 @@ Trainings/Certifications
  5. Fundamental Cloud Concepts for AWS
  6. Introduction to Power BI Training
 
-Software Skills
+## Software Skills
 - Math Programming: Mathematica, Matlab, LaTex, XPP
 - Web Development: Java, Apex, HTML, CSS, Wordpress
 - Information Technology: ServiceNow, SCRUM/Agile, Configuration Management Database (CMDB)
@@ -35,7 +35,7 @@ Software Skills
 - Microsoft Word, Excel, Access, PowerPoint
 - Content Creation/Design: Canva, Audacity, Adobe Creative Cloud (Premier Pro)
 
-Relevant Coursework
+## Relevant Coursework
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
 - Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
 
@@ -56,16 +56,16 @@ An Algorithm to Reverse the Generalized Factorials Process http://sections.maa.o
 # III. Other Interests
 
 
-Music 
+## Music 
 
 - I have been playing the violin for about 14 years and have participated in high school & university orchestras, youth symphonies, church concerts, and musicals. In undergraduate, I minored in music and became interested in music theory and music history.
 
 
-Cricket Blog 
+## Cricket Blog 
 
 I run a cricket blog/website at https://brokencricketdreams.com/. 
 
-Projects
+# Internships and Projects
 
 
 One of my prior projects was proposing an alternative points system, implementing the idea into an algorithm, and communicate the data & findings with readers from the cricketing world.
