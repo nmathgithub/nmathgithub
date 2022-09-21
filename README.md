@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nmathgithub.
+- 👋 Hi, I’m @nmathgithub. I am a PhD candidate in mathematics at the University of Iowa. My area of research lies in hyperbolic partial differential equations (PDEs). The PDEs I deal with have applications in traffic flow & biology (specifically chemotaxis). I completed both my MS in Applied Mathematics & BS in mathematics with a minors in computer science and music from the University of Tulsa.
 
-- 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data!
+- 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! My mathematical interests are in partial differential equations, complex analysis, and number theory.
 
 
 # I. Machine Learning/Deep Learning/Software Experience
@@ -106,11 +106,7 @@ A list of project ideas are as follows:
 
 # II. Mathematics 
 
-- I am currently completing my PhD in mathematics at the University of Iowa. My area of research lies in hyperbolic partial differential equations (PDEs).
-The PDEs I deal with have applications in traffic flow & biology (specifically chemotaxis).  
 
-- I completed both my MS in Applied Mathematics & BS in mathematics with a minors in computer science and music from the University of Tulsa.
-My mathematical interests included number theory and complex analysis. While completing my master's degree, I became interested in topics such as 
 
 Publication
 Riemann Problem for a Non-Strictly Hyperbolic System in Chemotaxis https://www.aimsciences.org/article/doi/10.3934/dcdsb.2021128
