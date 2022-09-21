@@ -17,7 +17,7 @@
 
 ### Information Technology, Accelerated Career Track Intern, Bank of Oklahoma (May 2018-May 2019) ### 
 
-** Service Management & Automatation Team ** 
+**Service Management & Automatation Team** 
 
 *Assisted the team in a company-wide release of ServiceNow, a service management tool from the beginning of the process to the Go-Live Phase and beyond. Specifically, I assisted in the discovery & documentation of ServiceNow Configuration Management Database (CMDB), wrote scripts for ServiceNow notifications, and debugged/tested issues with the interface *
 
@@ -25,7 +25,7 @@
 
 ### Information Technology, Accelerated Career Track Intern, Bank of Oklahoma (May 2017-August 2017) ###
 
-** Bank Data Warehouse & Salesforce Team **
+**Bank Data Warehouse & Salesforce Team**
 
 *Helped eliminiate techinical data by doing regression testing for Salesforce (in Apex language). I provided value by increasing the test cases passed from 75% to 93% * 
 
