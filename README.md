@@ -41,7 +41,7 @@
 
 **Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
 
-Microsoft Word, Excel, Access, PowerPoint
+**Microsoft:** Word, Excel, Access, PowerPoint
 
 ## Relevant Coursework
 
