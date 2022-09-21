@@ -18,11 +18,11 @@
 ## Trainings/Certifications
 
  1. Deep Learning Specialization by Andrew Ng in Coursera 
- - Structuring Machine Learning Projects
- - Neural Networks and Deep Learning 
- - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
- - Sequence Models 
- - Convolution Neural Networks 
+    - Structuring Machine Learning Projects
+    - Neural Networks and Deep Learning 
+    - Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
+    - Sequence Models 
+    - Convolution Neural Networks 
  2. DevOps Foundations (LinkedIn Learning)
  3. Developing Serverless Solutions on AWS
  4. Cloud (AWS): Build, Secure, Manage Serverless Applications at Scale on AWS
@@ -30,12 +30,12 @@
  6. Introduction to Power BI Training
 
 ## Software Skills
-- Math Programming: Mathematica, Matlab, LaTex, XPP
-- Web Development: Java, Apex, HTML, CSS, Wordpress
-- Information Technology: ServiceNow, SCRUM/Agile, Configuration Management Database (CMDB)
-- Visualization: PowerBI, D3, Tableau, Cognos, VTK, Paraview
-- Microsoft Word, Excel, Access, PowerPoint
-- Content Creation/Design: Canva, Audacity, Adobe Creative Cloud (Premier Pro)
+**Math Programming:** Mathematica, Matlab, LaTex, XPP
+**Web Development:** Java, Apex, HTML, CSS, Wordpress
+**Information Technology:** ServiceNow, SCRUM/Agile, Configuration Management Database (CMDB)
+**Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
+**Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
+Microsoft Word, Excel, Access, PowerPoint
 
 ## Relevant Coursework
 - Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
