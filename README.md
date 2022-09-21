@@ -7,17 +7,54 @@
 
 - 🌱 I’m currently trying to further my understanding of deep learning, artificial neural networks, natural language processing, and computer vision by working on several personal projects. 
 
+# Internships and Projects
+
+## Internships 
+
+### Data Engineering Intern, Principal Financial Group (May-July 2022) ### 
+
+*Implemented a workflow by utilizing AWS cloud infrastructure tools to calculate DORA Metrics (DevOps Research and Assesssments) and produce a dashboard in AWS Quicksight to help teams work more efficiently*
+
+### Information Technology, Accelerated Career Track Intern, Bank of Oklahoma (May 2018-May 2019) ### 
+
+** Service Management & Automatation Team ** 
+
+*Assisted the team in a company-wide release of ServiceNow, a service management tool from the beginning of the process to the Go-Live Phase and beyond. Specifically, I assisted in the discovery & documentation of ServiceNow Configuration Management Database (CMDB), wrote scripts for ServiceNow notifications, and debugged/tested issues with the interface *
+
+*The second project was part of the "Battle of the Interns," where a group of IT interns proposed a solution and provided a demo to company executives. We created a digital dashboard to streamline prospecting in the bank. In the process, I utilized SQL to explore the data and build visualization in R.*
+
+### Information Technology, Accelerated Career Track Intern, Bank of Oklahoma (May 2017-August 2017) ###
+
+** Bank Data Warehouse & Salesforce Team **
+
+*Helped eliminiate techinical data by doing regression testing for Salesforce (in Apex language). I provided value by increasing the test cases passed from 75% to 93% * 
+
+*As part of the "Battle of the Interns" project", we interviewed several teams across the bank and gauged which teams needed a streamlined service management system. We wrote a 30-page white paper and presented our findings to company executives. The next year, the company implemented ServiceNow, and I was called back to work with the Service Management team. * 
+
+## Past Personal Projects 
+One of my prior projects was proposing an alternative points system, implementing the idea into an algorithm, and communicate the data & findings with readers from the cricketing world.
+
+The algorithm and data is documented here: 
+https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/
+
+## Currently Working On/Thinking About
+With my interest in deep learning growing, I want to pursue projects involving classical music data sets.
+A list of project ideas are as follows:
+
+- Predicting Genre of Music Provided Training Sets 
+- Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
+
 ## Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
 
-**Data Analysis:** R, Python, SQL, Jupyter Notebook, Java 
+**Data Analysis:** R, Python, SQL, Jupyter Notebook, Java
 
-                  **Python Libraries:** Numpy, Pandas, Matplotlib
+**Python Libraries:** Numpy, Pandas, Matplotlib
 
 **AWS Services Used:** Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
 
 **Information Technology:** Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
 
-                            **Development Lifecycle:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
+**Development Lifecycle:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
 
 **Math Programming:** Mathematica, Matlab, LaTex, XPP
 
@@ -43,28 +80,7 @@
  5. Fundamental Cloud Concepts for AWS
  6. Introduction to Power BI Training
 
-# Internships and Projects
 
-## Internships 
-
-- Data Engineering Intern, Principal Financial Group, (May-July 2022)
-*Implemented a workflow by utilizing AWS cloud infrastructure tools to calculate DORA Metrics (DevOps Research and Assesssments) and produce a dashboard in AWS Quicksight to help teams work more efficiently*
-
-- Information Technology, Accelerated Career Track Intern, Bank of Oklahoma, (May 2018-May 2019) 
-**
-
-## Past Personal Projects 
-One of my prior projects was proposing an alternative points system, implementing the idea into an algorithm, and communicate the data & findings with readers from the cricketing world.
-
-The algorithm and data is documented here: 
-https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/
-
-## Currently Working On/Thinking About
-With my interest in deep learning growing, I want to pursue projects involving classical music data sets.
-A list of project ideas are as follows:
-
-- Predicting Genre of Music Provided Training Sets 
-- Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
 
 
 
