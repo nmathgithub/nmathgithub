@@ -11,9 +11,23 @@
 
 **Data Analysis:** R, Python, SQL, Jupyter Notebook, Java 
 
-**Python Libraries:** Numpy, Pandas, Matplotlib
+                  **Python Libraries:** Numpy, Pandas, Matplotlib
 
 **AWS Services Used:** Lambda, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
+
+**Information Technology:** Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
+
+                            **Development Lifecycle:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
+
+**Math Programming:** Mathematica, Matlab, LaTex, XPP
+
+**Web Development:** React.js, Node.js, HTML, CSS, Wordpress
+
+**Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
+
+**Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
+
+**Microsoft:** Word, Excel, Access, PowerPoint
 
 ## Trainings/Certifications
 
@@ -52,21 +66,7 @@ A list of project ideas are as follows:
 - Predicting Genre of Music Provided Training Sets 
 - Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
 
-## Software Skills
 
-**Information Technology:** Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
-
-**Development Lifecycle:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
-
-**Math Programming:** Mathematica, Matlab, LaTex, XPP
-
-**Web Development:** React.js, Node.js, HTML, CSS, Wordpress
-
-**Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
-
-**Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
-
-**Microsoft:** Word, Excel, Access, PowerPoint
 
 ## Relevant Coursework
 
