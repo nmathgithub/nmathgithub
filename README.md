@@ -9,7 +9,7 @@
 
 ## Data Science, Visualization, Cloud Infrastructure, and DevOps Skills 
 
-**Data Analysis:** R, Python, SQL, Jupyter Notebook
+**Data Analysis:** R, Python, SQL, Jupyter Notebook, Java 
 
 **Python Libraries:** Numpy, Pandas, Matplotlib
 
@@ -29,29 +29,15 @@
  5. Fundamental Cloud Concepts for AWS
  6. Introduction to Power BI Training
 
-## Software Skills
-
-**Math Programming:** Mathematica, Matlab, LaTex, XPP
-
-**Web Development:** Java, Apex, HTML, CSS, Wordpress
-
-**Information Technology:** ServiceNow, SCRUM/Agile, Configuration Management Database (CMDB)
-
-**Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
-
-**Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
-
-**Microsoft:** Word, Excel, Access, PowerPoint
-
-## Relevant Coursework
-
-- Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
-- 
-- Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
-
 # Internships and Projects
 
 ## Internships 
+
+- Data Engineering Intern, Principal Financial Group, (May-July 2022)
+*Implemented a workflow by utilizing AWS cloud infrastructure tools to calculate DORA Metrics (DevOps Research and Assesssments) and produce a dashboard in AWS Quicksight to help teams work more efficiently*
+
+- Information Technology, Accelerated Career Track Intern, Bank of Oklahoma, (May 2018-May 2019) 
+**
 
 ## Past Personal Projects 
 One of my prior projects was proposing an alternative points system, implementing the idea into an algorithm, and communicate the data & findings with readers from the cricketing world.
@@ -65,6 +51,28 @@ A list of project ideas are as follows:
 
 - Predicting Genre of Music Provided Training Sets 
 - Classify Music as Bach or Non-Bach provided music clips from the Baroque sets
+
+## Software Skills
+
+**Information Technology:** Apex, ServiceNow, Salesforce, Configuration Management Database (CMDB)
+
+**Development Lifecycle:** SCRUM/Agile, CI/CD (experience with Azure Pipelines), Github/Gitkraken
+
+**Math Programming:** Mathematica, Matlab, LaTex, XPP
+
+**Web Development:** React.js, Node.js, HTML, CSS, Wordpress
+
+**Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
+
+**Content Creation/Design:** Canva, Audacity, Adobe Creative Cloud (Premier Pro)
+
+**Microsoft:** Word, Excel, Access, PowerPoint
+
+## Relevant Coursework
+
+- Fundamental of Algorithms, Data Structures, Discrete Mathematics, Graph Theory, Visualization
+- 
+- Statistical/Machine Learning, Stochastic Modeling, Bioinformatics, and Probability
 
 # II. Mathematics 
 
@@ -91,6 +99,8 @@ An Algorithm to Reverse the Generalized Factorials Process http://sections.maa.o
 ## Cricket Blog 
 
 I run a cricket blog/website at https://brokencricketdreams.com/. 
+
+- Scorecard 
 
 <!---
 nmathgithub/nmathgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
