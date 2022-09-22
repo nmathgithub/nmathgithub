@@ -68,7 +68,7 @@ I want to combine my interests of deep learning, music, and cricket.
 
 - **Data Analysis** 
     - Python, Tensorflow, R, SQL, Jupyter Notebook, Java
-    - **Python Libraries:** Numpy, Pandas, Matplotlib
+    - **Python Libraries:** Keras, Tensorflow, Numpy, Pandas, Matplotlib
 
 - **AWS Services Used** 
     - Lambda, StepFunctions, S3, Glue, DynamoDB, QuickSight, Amplify, API Gateway, Cognito, Secrets Manager, SQS/SNS
