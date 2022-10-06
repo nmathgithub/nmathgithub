@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmathgithub. I am a fourth year PhD candidate studying mathematics at the University of Iowa. My area of research is in partial differential equations (PDEs).
 
-- 👀 I’m interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! 
+- 👀 I’m also currently interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! 
 
 
 # Machine Learning/Deep Learning/Software Experience
