@@ -15,11 +15,12 @@
 
 - Main Project 
 
-*Implemented a workflow by utilizing **AWS cloud infrastructure tools to calculate DORA Metrics** (DevOps Research and Assesssments) and produce a dashboard in AWS Quicksight to help teams work more efficiently*
+*Implemented a workflow by utilizing **AWS cloud infrastructure tools to calculate DORA Metrics** (DevOps Research and Assessments) and produce a dashboard in AWS Quicksight to help teams work more efficiently*
+
 
 *To accomplish this task, we worked with AWS CDK (in Python) and automated a workflow. We first wrote a chain of three lambdas and connected them via a StepFunction to extract relevant data from Github pull requests and Azure project/pipeline APIs. In the process, we validated the data (by using the pydantic library) and wrote the data to an S3 bucket. A new file in the S3 bucket would trigger a data transfer into DynamoDB (which itself was created by using AWS Glue), which was finally used to produce a dashboard in AWS Quicksight.* 
 
-- Hackathon
+- IT Code Jam (Hackathon)
 
 *Created a website as a demo for a Personalized Onboarding Experience in four days. This **website was built using React.js & Node.js (hosted on AWS Amplify)**, which would take an individual's name & team as input and produce personalize webpages with relevant onboarding/installation information. As part of this project, we also made sure to implement several layers of security by using AWS Cognito.*
 
@@ -35,7 +36,7 @@
 
 **Bank Data Warehouse & Salesforce Team**
 
-*Helped **eliminiate techinical data by doing regression testing** for Salesforce (in Apex language). I provided value by increasing the test cases passed from 75% to 93%* 
+*Helped **eliminiate techinical debt by doing regression testing** for Salesforce (in Apex language). I provided value by increasing the test cases passed from 75% to 93%* 
 
 *As part of the "Battle of the Interns" project", we **interviewed several teams across the bank** and gauged which teams needed a streamlined service management system. We **wrote a 30-page white paper and presented our findings** to company executives. The next year, the company implemented ServiceNow, and I was called back to work with the Service Management team.* 
 
