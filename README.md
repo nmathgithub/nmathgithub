@@ -48,7 +48,7 @@ I write articles & maintain a cricket blog/website at https://brokencricketdream
 
 *Although the World Test Championship (WTC) is a good idea, it was not the greatest of systems at its inception. Over a course of a few articles, I exposed some of the shortcomings of the system, which lead me into thinking about an alternate system. A few months later, I put these ideas into action, created an algorithm that would make the WTC points table more balanced. and implemented it in R.*
 
-*My **process of collecting and manipulating data, correspondings visualizations, and findings are documented here:** [Alternative World Test Championship Points Table](https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/)
+*My **process of collecting and manipulating data, corresponding visualizations, and findings are documented here:** [Alternative World Test Championship Points Table](https://brokencricketdreams.com/2021/06/17/alternative-world-test-championship-points-table-australia-should-be-in-the-world-test-championship-final-i-have-the-data-to-prove-it/)
 
 
 ### Currently Working On/Thinking About
