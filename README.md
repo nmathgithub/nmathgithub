@@ -82,7 +82,7 @@ I want to combine my interests of deep learning, music, and cricket.
     - Mathematica, Matlab, LaTex, XPP
 
 - **Web Development** 
-    - React.js, Node.js, HTML, CSS
+    - React, Node.js, HTML, CSS
     - **Visualization:** PowerBI, D3, Tableau, Cognos, VTK, Paraview
     - **Content Creation/Design:** Canva, Audacity, Wordpress, Adobe Creative Cloud (Premier Pro);
 
