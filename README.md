@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmathgithub. I am a fourth year PhD candidate studying mathematics at the University of Iowa. My area of research is in partial differential equations (PDEs).
+- 👋 Hi, I’m @nmathgithub. I graduated with my PhD in mathematics with a focus on partial differential equations (PDEs).
 
 - 👀 I’m currently interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! Specificially, these days I am playing around with transformers, GPT3, BERT, Hugging Face, etc. in Natural Language Processing.
 
