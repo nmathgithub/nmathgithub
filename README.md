@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nmathgithub. I graduated with my PhD in mathematics with a focus on partial differential equations (PDEs).
 
-- 👀 I’m currently interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data! Specificially, these days I am playing around with transformers, GPT3, BERT, Hugging Face, etc. in Natural Language Processing.
+- 👀 I’m currently interested in artificial intelligence, data science, visualization, mathematics, music, and cricket data!
+- Specifically, these days I am playing around with the Python wrappers for GLVis and MFEM (finite element libraries). My goal is to be able to apply these visualizations to a system of nonlinear hyperbolic conservation laws.
 
 
 # Machine Learning/Deep Learning/Software Experience
